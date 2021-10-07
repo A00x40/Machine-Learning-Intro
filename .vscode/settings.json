@@ -7,5 +7,7 @@
         "*.hrccproj": true,
         "*.sln": true,
         "*.suo": true
-    }
+    },
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": false
 }

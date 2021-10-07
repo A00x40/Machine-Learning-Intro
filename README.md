@@ -6,4 +6,8 @@ Repo for learning machine and deep learning techniques in python
 
 - scikit-learn <https://scikit-learn.org/stable/>
 - pandas <https://pandas.pydata.org/>
-- quandal <https://github.com/quandl/quandl-python>
+- matplotlib <https://matplotlib.org/>
+
+## Useful Videos
+
+- In Arabic <https://www.youtube.com/c/HeshamAsem/playlists>
